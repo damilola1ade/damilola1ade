@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Solving problems since COVID<br>📚 I'm currently learning Blockchain dev<br>🎯 Goals: Solving problems while getting paid<br>🎲 Hobbies: Gamer</p>
+<p align="left">✨ Solving problems since COVID<br>📚 Learning everyday<br>🎯 Goals: Solving problems while getting paid<br>🎲 Hobbies: Gamer</p>
 
 ###
 
